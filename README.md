@@ -1,14 +1,14 @@
 Verification infrastructure for trustless coordination.
 
 **Current work**
-- Governoun → governance execution systems (Polkadot → Arbitrum)
-- ENS adoption as identity substrate for institutional coordination
-- Independent IP onboarding into Nounish ecosystems
+- Governoun → on-chain governance execution engine (Polkadot → Arbitrum)
+- ENS-based identity layer for institutional coordination
+- IP integration framework for Nounish ecosystems
 
 **Stack**
 Python · FastAPI · Solidity · Foundry · Docker
 
-Website: https://internoun.wtf
+Website: [internoun.wtf](https://internoun.wtf)
 
 <!--
 **internoun/internoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

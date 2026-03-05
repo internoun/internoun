@@ -1,3 +1,6 @@
+# Internoun <img width="50" height="20" alt="noggles-wtf" src="https://github.com/user-attachments/assets/59d4c3d6-2496-45a0-aac8-a5bed673516a" />
+
+
 Verification infrastructure for trustless coordination.
 
 **Current work**
